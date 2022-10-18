@@ -1,0 +1,8 @@
+{
+  "realm": "savvy-fitness",
+  "auth-server-url": "https://lab-ids.savvycom.xyz/",
+  "ssl-required": "external",
+  "resource": "fitness-app",
+  "public-client": true,
+  "confidential-port": 0
+}
